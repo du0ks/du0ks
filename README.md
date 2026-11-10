@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg">
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg">
+  <img alt="Duhan Onat Karadayı: Technical Solutions Lead at İnovakademi, M.Sc. student at ČVUT Prague, Statistics graduate from METU" src="dark_mode.svg">
+</picture>
+
 # Duhan Onat Karadayı
 
 Statistics graduate from METU, now doing an M.Sc. in Innovation Project Management at ČVUT in Prague. I work as Technical Solutions Lead at İnovakademi, where I build and run the company's web, server, data and AI projects.
