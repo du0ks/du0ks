@@ -4,20 +4,13 @@
   <img alt="Duhan Onat Karadayı: Technical Solutions Lead at İnovakademi, M.Sc. student at ČVUT Prague, Statistics graduate from METU" src="dark_mode.svg">
 </picture>
 
-# Duhan Onat Karadayı
-
-Statistics graduate from METU, now doing an M.Sc. in Innovation Project Management at ČVUT in Prague. I work as Technical Solutions Lead at İnovakademi, where I build and run the company's web, server, data and AI projects.
-
-Portfolio: [du0ks.github.io](https://du0ks.github.io) · LinkedIn: [iamonat](https://linkedin.com/in/iamonat) · Email: duhanonat@gmail.com
-
 ## Selected projects
 
 Apps
 
 - [financial_planner](https://github.com/du0ks/financial_planner): Prosperity, a budgeting PWA for accounts, cards, multiple currencies and gold. Plain JavaScript, works offline, syncs per user through Supabase.
 - [Leo](https://github.com/du0ks/Leo): block-based note-taking app with notebooks. React, TypeScript and Firebase, as a web PWA and a Tauri desktop app.
-- [cockpit](https://github.com/du0ks/cockpit): offline-first planner for daily to quarterly goals, with a parking lot for ideas and a calm mode. Next.js and IndexedDB.
-- [fitness](https://github.com/du0ks/fitness): workout and nutrition tracker PWA with a session timer, schedule and calorie/protein log. React and Vite.
+- [311](https://github.com/du0ks/311): team project for a database course. A 12-table PostgreSQL schema for an electronics retailer and a vanilla JavaScript admin panel for sales, orders and after-sales service.
 
 Automation and tools
 
